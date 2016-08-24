@@ -6,4 +6,4 @@ Check out my blog at http://404notfound.us.
 
 #### Disclaimer
 
-Use these scripts at your own risk! They are in varyious stages of completion and may or may not function as intended.
+Use these scripts at your own risk! They are in various stages of completion and may or may not function as intended.
